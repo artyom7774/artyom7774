@@ -11,4 +11,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=artyom7774&theme=minimal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1>Go to our channels</h1>
-<p>Discord: <a href="https://discord.gg/FxY6Kfgx57">https://discord.gg/FxY6Kfgx57</a></p>
+<h4>Discord: <a href="https://discord.gg/FxY6Kfgx57">https://discord.gg/FxY6Kfgx57</a></h4>
